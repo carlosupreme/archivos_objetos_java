@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CreadorArchivo
+comment1.params=nombreArchivo
+comment1.target=CreadorArchivo(java.lang.String)
+comment2.params=
+comment2.target=void\ cerrarArchivo()
+comment3.params=
+comment3.target=void\ escribirPoligonosBase()
+comment4.params=
+comment4.target=void\ escribirCuerposBase()
+comment5.params=cuerpoG
+comment5.target=void\ agregarCuerpo(CuerpoGeometrico)
+comment6.params=poligono
+comment6.target=void\ agregarPoligono(Poligono)
+comment7.params=limite
+comment7.target=double\ random(int)
+numComments=8

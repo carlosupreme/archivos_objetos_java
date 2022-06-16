@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lista
+comment1.params=
+comment1.target=Lista()
+comment2.params=c
+comment2.target=void\ agregarCuerpoGeometrico(CuerpoGeometrico)
+comment3.params=p
+comment3.target=void\ agregarPoligono(Poligono)
+comment4.params=
+comment4.target=java.util.Vector\ getCuerposGeometricos()
+comment5.params=
+comment5.target=java.util.Vector\ getPoligonos()
+comment6.params=area
+comment6.target=java.util.Vector\ poligonosAreaMenor(double)
+comment7.params=volumen
+comment7.target=java.util.Vector\ cuerposVolumenMayor(double)
+numComments=8

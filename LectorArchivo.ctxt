@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LectorArchivo
+comment1.params=nombreArchivo
+comment1.target=LectorArchivo(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ leerCuerpos()
+comment3.params=
+comment3.target=java.util.ArrayList\ leerPoligonos()
+comment4.params=
+comment4.target=int\ bytes()
+numComments=5

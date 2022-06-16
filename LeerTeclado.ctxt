@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LeerTeclado
+comment1.params=mensaje
+comment1.target=java.lang.String\ leerString(java.lang.String)
+comment2.params=mensaje
+comment2.target=int\ leerInt(java.lang.String)
+comment3.params=mensaje
+comment3.target=double\ leerDouble(java.lang.String)
+comment4.params=mensaje
+comment4.target=char\ leerChar(java.lang.String)
+comment5.params=mensaje
+comment5.target=void\ mostrarMensaje(java.lang.String)
+comment6.params=mensaje\ opciones
+comment6.target=java.lang.String\ leerOpcion(java.lang.String,\ java.lang.String[])
+comment7.params=
+comment7.target=int\ menu()
+numComments=8

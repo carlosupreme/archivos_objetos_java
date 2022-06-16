@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Poligono
+comment1.params=nombre
+comment1.target=Poligono(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=double\ calcularArea()
+comment5.params=
+comment5.target=double\ calcularPerimetro()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Piramide
+comment1.params=base\ altura
+comment1.target=Piramide(Poligono,\ double)
+comment2.params=
+comment2.target=double\ calcularVolumen()
+numComments=3
